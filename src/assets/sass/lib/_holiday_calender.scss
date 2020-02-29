@@ -1,0 +1,83 @@
+.holiday-calendar {
+    .modal {
+        .modal-body {
+            border-radius: 15px;
+            .heading {
+                text-align: center;
+                color: rgb(45, 182, 236);
+                padding: 15px;
+                font-weight: 700;
+                font-size: xx-large;
+            }
+            .name {
+                text-align: center;
+                color: rgb(31, 59, 12);
+                padding: 15px;
+                font-size: medium;
+            }
+            .type {
+                text-align: center;
+                .type-box {
+                    border: medium;
+                    background-color: rgb(219, 128, 24);
+                    color: rgb(36, 34, 34);
+                    border-radius: 20px;
+                    padding: 5px;
+                }
+            }
+            .description {
+                padding: 10px;
+                margin: 5px;
+                font-size:1.5em; 
+                font-weight: bold;
+                color:  #4312cc;  
+
+                    }
+            .closemodal {
+                text-align: center;
+            }
+        }
+    }
+    .heading {
+        .heading-text {
+            text-align: center;
+            font-size: x-large;
+            font-weight: 500;
+            color: rgb(9, 6, 219);
+            padding: 15px;
+        }
+    }
+    .controls {
+        .control {
+            padding: 0px;
+            button {
+                width: 100%;
+                border-radius: 15px;
+            }
+        }
+    }
+    .calendar {
+        margin-top: 25px;
+        .card {
+            width: 100%;
+            .card-body {
+
+                .date {
+                    color: rgb(236, 5, 5);
+                    padding: 8px;
+
+                    .date-day {
+                        font-weight: 900;
+                        font-size: 40px;
+                        text-align: center;
+                    }
+                    .date-month {
+                        font-weight: 600;
+                        font-size: 15px;
+                        text-align: center;
+                    }
+                }
+            }
+        }
+    }
+}
