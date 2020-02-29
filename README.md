@@ -1,6 +1,12 @@
 Creado como Demo/ Test, para Capitole-Consulting.
 
- El endpoint proporcionado, contiene errores en la llamada .
+
+Link del demo : https://capitole-calendar.netlify.com/
+
+
+
+
+El endpoint proporcionado, contiene errores en la llamada .
 
 por ese motivo , se procedio a la modificacion del test y se realizo con Otra API.
 
